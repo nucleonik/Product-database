@@ -1,1 +1,30 @@
-asd
+[
+    {
+      "id": 0,
+      "name": "Dr. Shah Shahjada Pintu",
+      "position": "Asst. Professor, Surgery Department",
+      "image": "/dignity/doctor/dr1.jpg",
+      "department": "Rangpur Medical College & Hospital",
+    },
+    {
+      "id": 1,
+      "name": "Dr. Abu Hanif Pavel",
+      "position": "Asst. Professor, Surgery Department",
+      "image": "/dignity/doctor/dr2.jpg",
+      "department": "Rangpur Medical College & Hospital",
+    },
+    {
+      "id": 2,
+      "name": "Dr. Nure Aftab Siddique",
+      "position": "Register, Surgery Department",
+      "image": "/dignity/doctor/dr3.jpg",
+      "department": "Rangpur Medical College & Hospital",
+    },
+    {
+      "id": 3,
+      "name": "Dr. S M Kamal",
+      "position": "Asst. Register, Surgery Department",
+      "image": "/dignity/doctor/dr4.jpg",
+      "department": "Rangpur Medical College & Hospital",
+    },
+    ]
