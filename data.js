@@ -45,7 +45,7 @@
       "id": 6,
       "name": "Soyab Mucktakim",
       "position": "Account Officer",
-      "image": "/dignity/team/s1.jpg",
+      "image": "/dignity/team/Shoyeb.jpg",
       "education": "Master’s In Accounting",
     },
     {
